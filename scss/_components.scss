@@ -69,11 +69,13 @@ body {
         left: 0;
         width: 65% !important;
         object-fit: contain;
+        z-index: -1;
     }
     .imageTwo {
         bottom: 0;
         left: 2%;
         object-fit: contain;
+        z-index: -1;
     }
 }
 
